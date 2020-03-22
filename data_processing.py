@@ -18,3 +18,5 @@ def multiply(x, y):
 # Perform calculations
 print(subtract(10, 5))
 print(multiply(20, 50))
+
+# The error is now fixed.
