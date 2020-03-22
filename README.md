@@ -1,2 +1,3 @@
-# collaboration_test
-collaboration test
+# Collaboration test
+
+This is a test project for collaboration.
