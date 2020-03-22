@@ -18,3 +18,7 @@ def multiply(x, y):
 # Perform calculations
 print(subtract(10, 5))
 print(multiply(20, 50))
+
+# Create an error. Roll back to previous commit.
+print(multiply("1", "5"))
+
