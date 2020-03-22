@@ -10,3 +10,11 @@ def subtract(x, y):
 # Add 2 numbers together
 result = 1 + 2
 print(result)
+
+# Create multiply function
+def multiply(x, y):
+	return(x * y)
+
+# Perform calculations
+print(subtract(10, 5))
+print(multiply(20, 50))
